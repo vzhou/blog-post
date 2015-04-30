@@ -1,0 +1,66 @@
+body > header {
+  width: 100%
+}
+
+.leftside {
+  display: inline-block;
+  float: left;
+  width: 78%
+}
+
+.rightside {
+  display: inline-block;
+  float: right;
+  width: 18%
+}
+
+section{
+  max-width: 78%;
+}
+
+aside {
+  min-width: 18%
+}
+
+
+header {
+  padding: 8px 8px 8px 8px
+}
+
+p{
+  background-color: #BCD2EE;
+
+}
+
+p:hover{
+  background-color: #ffffff
+}
+section header {
+  text-align: left;
+}
+
+header h1 {
+  font-size: 2em;
+}
+
+aside section{
+  margin: auto;
+  margin-top: 5px;
+}
+
+aside p {
+  font-family: cursive;
+  text-decoration: underline;
+  color: red;
+  line-height: 1px;
+}
+
+.blue{
+  color: #0C0954;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
